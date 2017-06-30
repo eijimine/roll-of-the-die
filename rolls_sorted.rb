@@ -5,4 +5,4 @@ sorted_roll = []
   sorted_roll << "The result of your roll is #{die}"
 end
 
-puts sorted_roll
+puts sorted_roll.sort
